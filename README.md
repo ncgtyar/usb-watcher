@@ -1,2 +1,3 @@
 # usb-watcher
-Simple USB insert/remove watcher
+## Simple USB insert/remove watcher
+Works for all USB entities (plug-n-play); mouse, keyboard, phone, console, ...
